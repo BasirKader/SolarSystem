@@ -8,5 +8,11 @@ public class main {
         FactorX.Moon="4";
         FactorX.Planet="2";
         FactorX.Stars="10000";
+
+
+        featureSun Xfact=new featureSun();
+        Xfact.heat="hi";
+        Xfact.radius="hi";
+        Xfact.round="hi";
     }
 }
