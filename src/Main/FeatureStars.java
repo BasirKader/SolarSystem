@@ -7,6 +7,7 @@ public class FeatureStars {
     String radius;
     String shine;
     String heat;
+    String mario;
     
 
 }
