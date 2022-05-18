@@ -8,6 +8,6 @@ public class FeatureStars {
     String shine;
     String heat;
     String mario;
-
+    String peach;
 
 }
