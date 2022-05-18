@@ -14,5 +14,13 @@ public class main {
         Xfact.heat="hi";
         Xfact.radius="hi";
         Xfact.round="hi";
+
+        FactorX.moons="3";
+
+        FeatureStars FacX = new FeatureStars();
+        FacX.color="green";
+        FacX.radius="738y4932749km";
+        FacX.size="9999999999m";
+
     }
 }
