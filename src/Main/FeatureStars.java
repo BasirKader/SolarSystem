@@ -9,5 +9,7 @@ public class FeatureStars {
     String heat;
     String mario;
     String peach;
+    String toad;
+    
 
 }
