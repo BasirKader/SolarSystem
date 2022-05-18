@@ -6,5 +6,7 @@ public class FeatureStars {
     String color;
     String radius;
     String shine;
+    String heat;
+    
 
 }
