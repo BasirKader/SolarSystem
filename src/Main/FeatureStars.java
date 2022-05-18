@@ -10,6 +10,6 @@ public class FeatureStars {
     String mario;
     String peach;
     String toad;
-    
+
 
 }
