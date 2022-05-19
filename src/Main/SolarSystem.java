@@ -8,6 +8,12 @@ public class SolarSystem {
     String Stars;
     String suns;
     String moons;
+<<<<<<< HEAD
+=======
+    String color;
+    String name;
+    String size;
+>>>>>>> main
 
     
 

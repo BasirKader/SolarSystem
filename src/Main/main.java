@@ -8,10 +8,32 @@ public class main {
         FactorX.Moon="4";
         FactorX.Planet="2";
         FactorX.Stars="10000";
+<<<<<<< HEAD
         FactorX.moons="3";
 
 
         System.out.println("hello");
+=======
+        FactorX.size="huge";
+        FactorX.name="yo";
+        FactorX.color="red";
+        
+
+
+        featureSun Xfact=new featureSun();
+        Xfact.heat="hi";
+        Xfact.radius="hi";
+        Xfact.round="hi";
+
+        FactorX.moons="3";
+
+        FeatureStars FacX = new FeatureStars();
+        FacX.color="green";
+        FacX.radius="738y4932749km";
+        FacX.size="9999999999m";
+
+
+>>>>>>> main
 
     }
 }
