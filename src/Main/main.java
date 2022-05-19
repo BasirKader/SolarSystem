@@ -8,6 +8,12 @@ public class main {
         FactorX.Moon="4";
         FactorX.Planet="2";
         FactorX.Stars="10000";
+<<<<<<< HEAD
+        FactorX.moons="3";
+
+
+        System.out.println("hello");
+=======
         FactorX.size="huge";
         FactorX.name="yo";
         FactorX.color="red";
@@ -27,6 +33,7 @@ public class main {
         FacX.size="9999999999m";
 
 
+>>>>>>> main
 
     }
 }
