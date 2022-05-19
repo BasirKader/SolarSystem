@@ -11,5 +11,7 @@ public class main {
         FactorX.moons="3";
 
 
+        System.out.println("hello");
+
     }
 }
