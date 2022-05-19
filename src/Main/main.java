@@ -8,6 +8,10 @@ public class main {
         FactorX.Moon="4";
         FactorX.Planet="2";
         FactorX.Stars="10000";
+        FactorX.size="huge";
+        FactorX.name="yo";
+        FactorX.color="red";
+        
 
 
         featureSun Xfact=new featureSun();
@@ -21,6 +25,8 @@ public class main {
         FacX.color="green";
         FacX.radius="738y4932749km";
         FacX.size="9999999999m";
+
+
 
     }
 }
